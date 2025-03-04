@@ -6,4 +6,7 @@ class App{
         System.out.println("m1");
 
     }
+    public void notifyUser(){
+        System.out.println("notify user!");
+    }
 }
