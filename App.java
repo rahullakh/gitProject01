@@ -9,4 +9,7 @@ class App{
     public void notifyUser(){
         System.out.println("notify user!");
     }
+    public void auth(){
+        System.out.println("auth");
+    }
 }
